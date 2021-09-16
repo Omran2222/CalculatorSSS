@@ -1,0 +1,14 @@
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\CalcSSS.csproj.AssemblyReference.cache
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\CalcSSS.AssemblyInfoInputs.cache
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\CalcSSS.AssemblyInfo.cs
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\CalcSSS.csproj.CoreCompileInputs.cache
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\CalcSSS.dll
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\ref\CalcSSS.dll
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\CalcSSS.pdb
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\bin\Debug\netstandard2.0\CalcSSS.deps.json
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\bin\Debug\netstandard2.0\CalcSSS.dll
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\bin\Debug\netstandard2.0\ref\CalcSSS.dll
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\bin\Debug\netstandard2.0\CalcSSS.pdb
+C:\Users\omran\source\repos\CalcSSS\CalcSSS\CalcSSS\obj\Debug\netstandard2.0\XamlC.stamp
